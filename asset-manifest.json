@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AstorDioguardi/Shop-Sport.git/static/css/main.c7f3cb54.css",
+    "main.js": "/AstorDioguardi/Shop-Sport.git/static/js/main.da24ed49.js",
+    "index.html": "/AstorDioguardi/Shop-Sport.git/index.html",
+    "main.c7f3cb54.css.map": "/AstorDioguardi/Shop-Sport.git/static/css/main.c7f3cb54.css.map",
+    "main.da24ed49.js.map": "/AstorDioguardi/Shop-Sport.git/static/js/main.da24ed49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7f3cb54.css",
+    "static/js/main.da24ed49.js"
+  ]
+}
